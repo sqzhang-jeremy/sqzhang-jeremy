@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **sqzhang-jeremy/sqzhang-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ ### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+- 😄 I'm Shiquan Zhang, @sqzhang-jeremy
+- 🤯 Incoming PhD Research Assistant in Human Computer Interaction(HCI) at the UniMelbourne
+- 📫 Reache me by sqzhang.jeremy@gmail.com
