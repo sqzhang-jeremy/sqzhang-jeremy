@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤯 Incoming PhD Research Assistant in Human Computer Interaction(HCI) at the UniMelbourne
 -->
 
 
 ### Hi there 👋
 - 😄 I'm Shiquan Zhang, @sqzhang-jeremy
-- 🤯 Incoming PhD Research Assistant in Human Computer Interaction(HCI) at the UniMelbourne
 - 📫 Reache me by sqzhang.jeremy@gmail.com
