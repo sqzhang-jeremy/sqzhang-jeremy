@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 😄 I'm Shiquan Zhang, @sqzhang-jeremy
-- 📫 Reach me by sqzhang.jeremy@gmail.com
+- 📫 Reach me sqzhang.jeremy@gmail.com
