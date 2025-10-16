@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🤯 Incoming PhD Research Assistant in Human Computer Interaction(HCI) at the UniMelbourne
 -->
 
 
 ### Hi there 👋
-- 😄 I'm Shiquan Zhang, @sqzhang-jeremy
+- 😄 I'm Jeremy Zhang, @sqzhang-jeremy
+- Founder @ParkingMate.ai | AI Agent Engineer/AI Product Manager | AI Agent/Multi-Agent System/Small Language Model/On-Device LLM  | LLM and Human-Computer Interaction Graduate Researcher @UniMelb CIS
 - 📫 Reach me sqzhang.jeremy@gmail.com
