@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 😄 I'm Jeremy Zhang, @sqzhang-jeremy
-- Founder @ParkingMate.ai | AI Agent Engineer/AI Product Manager | AI Agent/Multi-Agent System/Small Language Model/On-Device LLM  | LLM and Human-Computer Interaction Graduate Researcher @UniMelb CIS
+- Founder @[ParkingMate.ai](https://www.parkingmate.ai) | AI Agent Engineer/AI Product Manager | AI Agent/Multi-Agent System/Small Language Model/On-Device LLM  | LLM and Human-Computer Interaction Graduate Researcher @UniMelb CIS
+- [LinkedIn](https://www.linkedin.com/in/sqzhang-jeremy/)
+- [Google Scholar](https://scholar.google.com/citations?user=CmYDev0AAAAJ&hl=en)
+- [X/Twitter](https://x.com/realJeremyZhang)
 - 📫 Reach me sqzhang.jeremy@gmail.com
